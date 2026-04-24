@@ -7,8 +7,8 @@
 
   <info>
     <title>Custom Author-Date Cockburn Style</title>
-    <id>https://raw.githubusercontent.com/Lissandre15/bibliographie-SIC-BD/main/custom-author-date.csl</id>
-    <link href="https://raw.githubusercontent.com/Lissandre15/bibliographie-SIC-BD/main/custom-author-date.csl" rel="self"/>
+    <id>https://raw.githubusercontent.com/Lissandre15/bibliographie-SIC-BD/refs/heads/main/custom-author-date_2.csl</id>
+    <link href="https://raw.githubusercontent.com/Lissandre15/bibliographie-SIC-BD/refs/heads/main/custom-author-date_2.csl" rel="self"/>
     <category citation-format="author-date"/>
     <category field="engineering"/>
     <updated>2026-04-24T00:00:00+00:00</updated>
